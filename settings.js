@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['03077889300']
-global.premium = ['03077889300']
-global.ownernomer = '03077889300'
+global.owner = ['+923077889300']
+global.premium = ['+923077889300']
+global.ownernomer = '+923077889300'
 global.ownername = 'Kashii9300'
 global.botname = 'Kashii Lover'
 global.footer = '©Kashii 💕 Mishii.'
